@@ -1,8 +1,10 @@
 [user]
-	emal = wmantly@gmail.com
-	name = William Mantly
 	email = wmantly@gmail.com
+	name = William Mantly
+	signingkey = E1EEC7650BA97160
+[core]
+	quotepath = false
+[commit]
+	gpgsign = true
 [credential]
 	helper = cache --timeout=3600
-[diff]
-	guitool = kdiff3
