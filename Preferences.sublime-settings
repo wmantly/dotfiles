@@ -2,7 +2,11 @@
 	"added_words":
 	[
 		"Debian",
-		"Postgres"
+		"Postgres",
+		"Artifactory",
+		"Roivant",
+		"Ubuntu",
+		"DevOps",
 	],
 	"highlight_line": true,
 	"ignored_packages":
