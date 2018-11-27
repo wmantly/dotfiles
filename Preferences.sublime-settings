@@ -6,8 +6,9 @@
 		"Artifactory",
 		"Roivant",
 		"Ubuntu",
-		"DevOps",
+		"DevOps"
 	],
+	"font_size": 12,
 	"highlight_line": true,
 	"ignored_packages":
 	[

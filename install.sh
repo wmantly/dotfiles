@@ -11,6 +11,6 @@ ln .bash_aliases ~/.bash_aliases
 ln .gitconfig ~/.gitconfig
 ln .git_promt.sh ~/.git_promt.sh
 ln Preferences.sublime-settings ~/.config/sublime-text-3/Packages/User/Preferences.sublime-settings
-ln Preferences.Ruby.sublime-settings ~/.config/sublime-text-3/Packages/User/Preferences.Ruby.sublime-settings
+ln Ruby.sublime-settings ~/.config/sublime-text-3/Packages/User/Ruby.sublime-settings
 
 exit 0;
