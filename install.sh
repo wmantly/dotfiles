@@ -10,6 +10,8 @@ ln .bashrc ~/.bashrc
 ln .bash_aliases ~/.bash_aliases
 ln .gitconfig ~/.gitconfig
 ln .git_promt.sh ~/.git_promt.sh
+
+mkdir -p ~/.config/sublime-text-3/Packages/User/
 ln Preferences.sublime-settings ~/.config/sublime-text-3/Packages/User/Preferences.sublime-settings
 ln Ruby.sublime-settings ~/.config/sublime-text-3/Packages/User/Ruby.sublime-settings
 
