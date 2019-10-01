@@ -1,7 +1,7 @@
 [user]
-	email = william.mantly@roivant.com
+	email = wmantly@gmail.com
 	name = William Mantly
-	signingkey = 73ABC28BE46DA0F4
+	signingkey = E1EEC7650BA97160
 [core]
 	quotepath = false
 [commit]
