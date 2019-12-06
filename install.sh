@@ -14,8 +14,6 @@ mkdir -p ~/.config/sublime-text-3/Packages/User/
 ln Preferences.sublime-settings ~/.config/sublime-text-3/Packages/User/Preferences.sublime-settings
 ln Ruby.sublime-settings ~/.config/sublime-text-3/Packages/User/Ruby.sublime-settings
 
-exit 0;
-
 if grep -q my_bash.sh ~/.bashrc ; then
 	echo "Already in bashrc"
 else
